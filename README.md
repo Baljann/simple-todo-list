@@ -37,3 +37,10 @@ This is a simple, yet powerful application where users can easily manage their d
 - Simply download the project or fork it.
 - Open the `index.html` file in your browser.
 - Enjoy using your todo-list! ⏱️
+
+---
+
+## 💬 Feedback
+
+Found a bug or want to suggest an improvement?  
+Feel free to open an [issue](https://github.com/Baljann/simple-todo-list/issues) or submit a pull request. Contributions are warmly welcome! 🚀
