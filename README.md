@@ -34,6 +34,6 @@ This is a simple, yet powerful application where users can easily manage their d
 
 ## 📂 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/to-do-list.git
+- Simply download the project or fork it.
+- Open the `index.html` file in your browser.
+- Enjoy using your todo-list! ⏱️
